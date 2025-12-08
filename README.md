@@ -22,3 +22,4 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 2463422638 | [76561199564075832](https://steamcommunity.com/profiles/76561199564075832/) | ✅           | 2025-09-20 08:19:26 |                |          |
 | ![](https://avatars.steamstatic.com/258b38da0a17b550540f6e019a70e2533861158f.jpg) | 圆          | [76561199211231703](https://steamcommunity.com/profiles/76561199211231703/) | ✅           | 2025-06-13 04:54:06 |                |          |
 | ![](https://avatars.steamstatic.com/abce348844dc04f5e413b6417f9fa21c7fa40d89.jpg) | 加          | [76561199194833517](https://steamcommunity.com/profiles/76561199194833517/) | ✅           | 2025-01-03 15:12:31 |                |          |
+| ![](https://avatars.steamstatic.com/116562e95f6499ee9b9cbe1e1aedbedaada8b26c.jpg) | 默念         | [76561199076942097](https://steamcommunity.com/profiles/76561199076942097/) | ✅           | 2025-12-07 11:52:34 |                |          |
